@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookCard renders correctly with all props 1`] = `null`;
+
+exports[`BookCard renders correctly without authors 1`] = `null`;
+
+exports[`BookCard renders correctly without image 1`] = `null`;
